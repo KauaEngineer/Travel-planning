@@ -1,0 +1,171 @@
+div#page {
+    display: flex;
+    flex-direction: column;
+   margin: auto;
+    height: 350px;
+    width: 1120px;
+}
+
+
+
+img {
+    display: block;
+    height: 350px;
+    width: 1120px;
+    border-radius: 28px;
+    margin: 20px auto;
+}
+
+#foto {
+    display: block;
+    height: 658px;
+    width: 1120px;
+    border-radius: 28px;
+    margin: 20px auto;
+}
+
+h1 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    color: #1B1B1B;
+    margin-top: 3px;
+}
+#Pontos-Turísticos{
+    margin-top: 80px;
+}
+
+h3 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    color: #1B1B1B;
+}
+
+h2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    color: #1B1B1B;
+}
+
+#descripton {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #333333;
+    margin-top: -9px;
+}
+
+#descripton-2 {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    text-align: center;
+    color: #333333;
+}
+
+#paragraph {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #333333;
+    text-align: start;
+}
+
+#purple {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #591B98;
+    text-align: start;
+}
+
+#red {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #E5245E;
+    text-align: start;
+}
+
+#orange {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #E95E10;
+    text-align: start;
+}
+
+#Blue {
+    font-family: 'Open Sans';
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #0C51A7;
+    text-align: start;
+}
+
+#headline-1{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #E95E10;
+    text-align: start;
+    text-transform: uppercase;
+    margin-top: 68px;
+    margin-bottom: 8px;
+}
+
+#headline-2{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 22px;
+    color: #E95E10;
+    text-align: start;
+    text-transform: uppercase;
+}
+
+footer {
+    font-family: "Alice", serif;
+    margin-top: 24px;
+    margin-bottom: 48px;
+    color: #000000;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+footer img {
+    width: 14px;
+    height: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
